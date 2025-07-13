@@ -265,13 +265,6 @@ src/
 - **Mental Health Organizations** worldwide for research and inspiration
 - **Open Source Community** for amazing tools, libraries, and frameworks
 
-## 📞 Support & Contact
-
-- **Website**: [MindfulChain](https://mind-ful-chain-ai.vercel.app/)
-- **Email**: arpit6814@gmail.com
-- **GitHub**: [Report issues and contribute](https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git)
-- **Demo Video**:[Youtube Link](https://youtu.be/QqCsywVruaI)
-
 ---
 
 <div align="center">
