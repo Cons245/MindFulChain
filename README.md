@@ -93,8 +93,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/arpit15006/MindFulChain-AI-Powered-Mental-Wellness.git
-cd MindFulChain-AI-Powered-Mental-Wellness
+git clone https://github.com/Cons245/MindFulChain.git
+cd MindFulChain
 ```
 
 ### 2. Install Dependencies
